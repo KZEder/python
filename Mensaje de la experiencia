@@ -1,0 +1,10 @@
+#Fecha de hoy 
+print('4 de abril del 2023')
+#Me siento 
+print('Hoy me e sentido muy a gusto y tranquilo por las decisiones y los motivos en los que estoy aunque tengo mucho estres me siento bien conmigo.')
+#Lo que quiero lograr en este curso 
+print('Ser mas abil y mejor las destrezas además ver en lo que e fallado')
+#Mensaje para mi yo despues de terminar el curso 
+print('Nunca te rindas y recuerda un curso no te hace mejor pero si mas abil')
+#Emoji favorito
+print('😎')
